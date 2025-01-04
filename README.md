@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biradar8,
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning backend development in python using Django, DRF, Graphene and DSA, frontend using react and bootstrap.
+- 🌱 I’m currently learning backend development in python using Django, DRF, GraphQL, FastAPI and also learning DSA.
 - 💞️ I’m looking to collaborate on : Python projects
 - 📫 How to reach me : ratikant2288rtu@gmail.com
